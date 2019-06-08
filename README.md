@@ -1,2 +1,2 @@
 # EtherSlider
-Sliding puzzle game running on the Ethereum Network.
+## Sliding puzzle game running on the Ethereum Network
